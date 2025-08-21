@@ -15,7 +15,7 @@ how to automate pipeline with github actions
 how to deploy a Node.js app to AWS Elastic Beanstalk, triggered from github
 A lightwt alternative:deploy to an EC2 instance via SSH
 
-
+..
 
 EB application name-> eb-app
 EB application name-> eb-env
